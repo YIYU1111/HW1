@@ -1,1 +1,2 @@
 # HW1
+This is a small lottery game written by myself, in which four different awards and the amount corresponding to each award (can be positive or negative) are set and the starting capital is set. When the game starts, it will automatically The fee for participating in the game is deducted and the amount in the hand is calculated according to the result of the game. When the amount is 0, the game ends, and the player can also quit in the middle of the game.
